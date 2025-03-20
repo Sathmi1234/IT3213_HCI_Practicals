@@ -20,4 +20,4 @@ https://github.com/user-attachments/assets/eaf94867-ec7f-4968-a05f-0d308ba0634c
 ## Files Included
 - `Output.mp4` – A recorded demonstration of the interactions.
 - `Output1.png` – A preview image of the practical work.
-- Axure source files (**if applicable**).
+- Axure source files.
