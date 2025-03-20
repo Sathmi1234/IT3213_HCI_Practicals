@@ -9,7 +9,6 @@
 https://github.com/user-attachments/assets/11dcc729-028c-42db-aa96-48db5b643ce7
 
 ## Files Included
-- `Output.mp4` – A recorded demonstration of the interactions.
 - Axure source files (Calculator.rp).
 
 ## To be completed
