@@ -6,7 +6,8 @@
 - Elements feature **shadow effects** for a 3D appearance.
 
 ### 2. Practical 2
-- Contains **text, a triangle shape, and an image**.
+- Contains the login page and home page.
+- Interaction between login and home.
 - Demonstrates **basic UI composition and layouting**.
 - Showcases **different colors and alignments**.
 
