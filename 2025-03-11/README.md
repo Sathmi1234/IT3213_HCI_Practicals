@@ -1,7 +1,3 @@
-# Axure Practical Projects
-
-This repository contains two practical exercises created using **Axure RP**, showcasing different UI elements and interactions.
-
 ## Project Overview
 
 ### 1. Practical 1
