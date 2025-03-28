@@ -10,6 +10,7 @@ Each practical is stored in a separate folder with its own **README.md** file, e
 |------------|--------------------------|-------------|
 | 2025-03-11 | Simple interface with interaction     | [Day 1](/2025-03-11/README.md) |
 | 2025-03-18 | Calculator       | [Day 2](/2025-03-18/README.md) |
+| 2025-03-25 | Calculator (Improved)       | [Day 3](/2025-03-25/README.md) |
 
 ## How to Use
 1. Clone the repository:
