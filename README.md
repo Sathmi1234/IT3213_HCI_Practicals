@@ -66,4 +66,3 @@ This repository is for **educational purposes only**. Feel free to explore and m
 
 **Created by:** Sathmi Rajapaksha  
 **Course:** IT3213 – Human-Computer Interaction
-```
