@@ -12,7 +12,8 @@ Each practical is stored in a separate folder with its own **README.md** file, e
 | 2025-03-18 | Calculator       | [Day 2](/2025-03-18/README.md) |
 | 2025-03-25 | Calculator (Improved)       | [Day 3](/2025-03-25/README.md) |
 | 2025-04-01 | Fully functional Calculator       | [Day 4](/2025-04-01/README.md) |
-| 2025-04-08 | Scrolled Fixed and Animation Bell       | [Day 5](/2025-04-08/README.md) |
+| 2025-04-08 | Top Fixed Scrolling Menu and Animation Bell       | [Day 5](/2025-04-08/README.md) |
+| 2025-04-22 | Collapsible side panel  | [Day 6](/2025-04-22/README.md) |
 
 ## How to Use
 1. Clone the repository:
