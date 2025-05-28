@@ -15,7 +15,7 @@ Each practical is stored in a separate folder with its own **README.md** file, e
 | 2025-04-08 | Top Fixed Scrolling Menu and Animation Bell       | [Day 5](/2025-04-08/README.md) |
 | 2025-04-22 | Collapsible side panel  | [Day 6](/2025-04-22/README.md) |
 | 2025-05-20 | Application with Quick Action Buttons | [Day 7](/2025-05-20/README.md) |
-| 2025-05-27 | Button Selection System using Segment Control | [Day 7](/2025-05-20/README.md) |
+| 2025-05-27 | Segment Control (Button Selection System ) | [Day 7](/2025-05-20/README.md) |
 
 ## How to Use
 1. Clone the repository:
