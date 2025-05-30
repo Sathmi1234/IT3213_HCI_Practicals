@@ -1,4 +1,4 @@
-## Project Overview
+## Project Overview (2025-03-11) - Simple interface with interaction
 
 ### 1. Practical 1
 - Includes a **rounded rectangle** with a dashed black border.

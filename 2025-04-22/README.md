@@ -1,4 +1,4 @@
-## Project Overview
+## Project Overview (2025-04-22) - Collapsible side panel
 - Implementation of a collapsible side panel menu with slide animations.
     - Side Panel is visible when swiped to right.
     - It closes when one of the menu tab is clicked or when swiped left on the panel 

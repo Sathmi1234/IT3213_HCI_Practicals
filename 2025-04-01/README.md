@@ -1,4 +1,4 @@
-## Project Overview
+## Project Overview (2025-04-01) - Fully functional Calculator
 
 - Fully functional calculator with working +,-,/,* operations and +/-,%,. operations.
 

@@ -1,4 +1,4 @@
-## Project Overview
+## Project Overview (2025-04-08) - Top Fixed Scrolling Menu and Animation Bell
 ### Practical 1
 - Fixed navigation bar when the screen is scrolled and navigation bar disappears.
 
