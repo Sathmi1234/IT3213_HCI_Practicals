@@ -17,6 +17,7 @@ Each practical is stored in a separate folder with its own **README.md** file, e
 | 2025-05-20 | Application with Quick Action Buttons | [Day 7](/2025-05-20/README.md) |
 | 2025-05-27 | Segment Control (Button Selection System ) | [Day 8](/2025-05-27/README.md) |
 | 2025-05-30 | Tab Bar Navigation | [Day 9](/2025-05-30/README.md) |
+| 2025-06-03 | Floating Action Button (FAB) Navigation System | [Day 10](/2025-06-03/README.md) |
 
 ## How to Use
 1. Clone the repository:
